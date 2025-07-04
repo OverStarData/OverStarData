@@ -1,13 +1,15 @@
 # OverStarData
-<h1 align="center">👋 Hi there, I'm <span style="color:#007ACC;">[Your Name]</span></h1>
+
+<h1 align="center">👋 Hi there, I'm <span style="color:#007ACC;">Mahmoud Kamal</span></h1>
 <h3 align="center">🚀 Data Analyst | 📊 Data Scientist | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahmoud-kamal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahmoud.kamal@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://mahmoudkamal.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
+  <a href="https://drive.google.com/your-resume-link"><img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
+
 
 ---
 
