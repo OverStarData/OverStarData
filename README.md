@@ -1,125 +1,73 @@
 # OverStarData
-
-<h1 align="center">Hi, I'm Mahmoud Kamal 👋</h1>
-<h3 align="center">Data Analyst | Data Scientist | SQL & Python Enthusiast</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#007ACC;">[Your Name]</span></h1>
+<h3 align="center">🚀 Data Analyst | 📊 Data Scientist | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=codepen" /></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=readthedocs" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
+  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-green?style=flat-square&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-I'm a data-driven professional with a passion for transforming raw data into meaningful insights. Whether it's through dashboards, SQL queries, or machine learning models, I love solving business problems with data.
+Hi! I'm a data enthusiast passionate about translating data into actionable insights through storytelling, dashboards, and algorithms.
 
-- 🧠 Strong in SQL, Python, Tableau, Excel
-- 📊 Focused on EDA, KPIs, dashboards, forecasting
-- 🤝 Open to collaboration, freelance, or full-time data roles
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Libraries/Tools:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4065aa?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-9e4f9e?style=flat)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
-
-**Platforms & Tools:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+- 💡 I love solving business problems with data
+- 📈 Focused on analytics, dashboarding, SQL & predictive modeling
+- 🎯 Currently learning: Time Series Forecasting & MLOps
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects Showcase
 
-#### 📊 HR Analytics Dashboard – Tableau  
-Analyze attrition trends, departmental performance, and workforce demographics.
+<details>
+<summary>📊 HR Analytics Dashboard (Tableau)</summary>
 
-- **Tech:** Tableau
-- **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/yourprofile/viz/HR-Analytics-Dashboard)
-- **Repo:** [HR-Analytics-Dashboard-Tableau](https://github.com/yourusername/HR-Analytics-Dashboard-Tableau)
-<!-- ![HR Dashboard](https://your-link.com/hr-dashboard.png) -->
+- **Purpose**: Explore attrition, department trends, gender distribution
+- **Tool**: Tableau  
+- 📎 [Live Dashboard](https://public.tableau.com/app/profile/yourprofile/viz/HR-Analytics-Dashboard)
+- 💻 [Repo](https://github.com/yourusername/HR-Analytics-Dashboard-Tableau)
 
----
+<!-- Optional image -->
+<!-- ![HR Dashboard](https://github.com/yourusername/yourusername/blob/main/hr-dashboard.png) -->
 
-#### 🛍️ Exploratory Retail Sales Analysis – SQL  
-Uncover business trends and KPIs from a retail sales database.
+</details>
 
-- **Tech:** SQL Server, T-SQL
-- **Repo:** [exploratory-data-analytic-sales-sql](https://github.com/yourusername/exploratory-data-analytic-sales-sql)
+<details>
+<summary>🛍️ Exploratory Sales Analysis (SQL)</summary>
 
----
+- **Purpose**: Revenue patterns, customer segmentation, sales KPIs
+- **Tool**: SQL Server  
+- 💻 [Repo](https://github.com/yourusername/exploratory-data-analytic-sales-sql)
 
-#### 🐍 Python Concepts for Data Analytics  
-Essential Python fundamentals for analytics tasks, including libraries, functions, and practical examples.
+</details>
 
-- **Tech:** Python, Pandas
-- **Repo:** [python-concepts-for-data-analytics](https://github.com/yourusername/python-concepts-for-data-analytics)
+<details>
+<summary>🐍 Python Concepts for Data Analytics</summary>
 
----
+- **What’s inside**: Data types, functions, file handling, NumPy & Pandas basics
+- 💻 [Repo](https://github.com/yourusername/python-concepts-for-data-analytics)
 
-#### 📚 Pandas Data Analytics  
-Guide to data cleaning, aggregation, transformation, and visual analysis using Pandas.
+</details>
 
-- **Tech:** Jupyter, Pandas, Matplotlib
-- **Repo:** [pandas-data-analytics](https://github.com/yourusername/pandas-data-analytics)
+<details>
+<summary>📚 Pandas + NumPy Projects</summary>
 
----
+- 💻 [Pandas Repo](https://github.com/yourusername/pandas-data-analytics)
+- 💻 [NumPy Repo](https://github.com/yourusername/numpy-data-science)
 
-#### 🧮 NumPy for Data Science  
-Explore array operations, matrix math, and performance tips in NumPy.
-
-- **Tech:** Jupyter, NumPy
-- **Repo:** [numpy-data-science](https://github.com/yourusername/numpy-data-science)
+</details>
 
 ---
 
-#### 🗃️ SQL EDA – Sales Database  
-Another variation of SQL analysis on retail sales with advanced queries and reporting.
+### 🧰 Tech Stack
 
-- **Tech:** SQL Server
-- **Repo:** [exploratory-data-analytic-sql](https://github.com/yourusername/exploratory-data-analytic-sql)
-
----
-
-### 📜 Certifications
-
-- 🧪 **IBM Data Analyst** – Coursera  
-- 📊 **Google Data Analytics** – Coursera  
-- 🐍 **Python for Data Science** – DataCamp  
-
----
-
-### 📄 Resume
-
-📄 [Download Resume](https://your-resume-link.com)
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-### 💬 Let's Connect!
-
-> "Turning complex data into clear insights is not just a skill—it's a superpower."
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourname/) or [email](mailto:your.email@example.com) if you want to collaborate or discuss a data project!
+```yaml
+Languages:   Python | SQL | T-SQL
+Libraries:   Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+Tools:       Tableau | Jupyter | Git | GitHub | Excel | Power BI
+Databases:   SQL Server | PostgreSQL
 
