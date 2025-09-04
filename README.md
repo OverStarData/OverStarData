@@ -1,36 +1,41 @@
-# 🌟 Mahmoud Kamal | OverStarData  
-
-<h1 align="center">👋 Hi, I'm <span style="color:#007ACC;">Mahmoud Kamal</span></h1>
+<!-- Banner -->
+<h1 align="center">Hi, I'm <span style="color:#007ACC;">Mahmoud Kamal</span> 👋</h1>
 <h3 align="center">🚀 Data Analyst | 📊 Data Scientist | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoud-kamal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahmoud.kamal@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mahmoudkamal.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://drive.google.com/your-resume-link"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahmoudkamal20518@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OverStarData">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/your-resume-link">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-Hi! I'm a **Data Enthusiast** passionate about transforming raw data into meaningful insights with **analytics, machine learning, and storytelling**.  
+Data Analyst passionate about turning **raw data into actionable insights** through storytelling, dashboards, and predictive models.  
 
-- 💡 I solve real-world business problems with data  
-- 📈 Focused on **dashboarding, analytics, SQL & predictive modeling**  
+- 💡 Solving **business problems** with analytics and ML  
+- 📊 Skilled in **SQL, Tableau, Python, Scikit-learn**  
 - 🎯 Currently learning **Time Series Forecasting & MLOps**  
-- 🌍 Open to **collaboration** and **freelance projects**  
-
-📊 Fun fact: *"Data without storytelling is just numbers."*  
+- 🌍 Based in **Malaysia** | Open to **remote/freelance** opportunities  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🔥 Latest Project: **Customer Churn Prediction (Flask + ML Model)**  
-- **Purpose**: Predict churn probability and provide insights into customer retention.  
-- **Stack**: Python (Flask, Scikit-learn), Pandas, NumPy, HTML/CSS, Bootstrap  
-- 🌐 [Live Demo](https://yourapp.onrender.com) | 💻 [Repo](https://github.com/yourusername/customer-churn-flask)  
+### 🔥 **Customer Churn Analytics**  
+End-to-end ML project analyzing telecom churn. Includes data preprocessing, feature engineering, model training (Logistic Regression, Random Forest, Gradient Boosting), and deployment with Flask + Tableau dashboards.  
+
+🔗 [Repo](https://github.com/OverStarData/customer-churn-analytics)  
 
 ---
 
@@ -38,16 +43,19 @@ Hi! I'm a **Data Enthusiast** passionate about transforming raw data into meanin
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **HR Analytics Dashboard** | Employee attrition, department KPIs, gender trends | Tableau | [Live Dashboard](https://public.tableau.com/app/profile/yourprofile/viz/HR-Analytics-Dashboard) |
-| **Exploratory Sales Analysis** | Customer segmentation, sales KPIs, revenue trends | SQL Server | [Repo](https://github.com/yourusername/exploratory-data-analytic-sales-sql) |
+| **HR Analytics Dashboard** | Attrition & workforce KPIs | Tableau | [Repo](https://github.com/OverStarData/HR-Analytics-Dashboard-Tableau) |
+| **Sales Analytics Dashboard** | Revenue & customer insights | Tableau | [Repo](https://github.com/OverStarData/Sales-Analytics-Dashboard-Tableau) |
+| **Sales Data Analysis (EDA)** | 50K+ sales records, SQL queries | SQL + Python | [Repo](https://github.com/OverStarData/exploratory-data-analytic-sales-sql) |
 
 ---
 
-### 🐍 Python Projects  
+### 🐍 Python Libraries & EDA  
 
-- 📚 **Python Concepts for Data Analytics** → [Repo](https://github.com/yourusername/python-concepts-for-data-analytics)  
-- 🐼 **Pandas Data Analytics** → [Repo](https://github.com/yourusername/pandas-data-analytics)  
-- 🔢 **NumPy for Data Science** → [Repo](https://github.com/yourusername/numpy-data-science)  
+- 📚 **Pandas Data Analytics** → [Repo](https://github.com/OverStarData/pandas-data-analytics)  
+- 🔍 **Pandas Exploratory Data Analysis** → [Repo](https://github.com/OverStarData/Pandas-Exploratory-Data-Analysis)  
+- 🔢 **NumPy for Data Science** → [Repo](https://github.com/OverStarData/numpy-data-science)  
+- 📊 **Matplotlib Data Visualization** → [Repo](https://github.com/OverStarData/Matplotlib-Data-Visualization)  
+- 🐍 **Python Concepts for Data Analytics** → [Repo](https://github.com/OverStarData/python-concepts-for-data-analytics)  
 
 ---
 
@@ -60,9 +68,3 @@ Tools:       Tableau | Power BI | Jupyter | Git | GitHub | Excel
 Databases:   SQL Server | PostgreSQL
 Deployment:  Flask | Render | PythonAnywhere
 ```
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/> </p>
-
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/mahmoud-kamal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:mahmoud.kamal@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://mahmoudkamal.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a> </p> ```
