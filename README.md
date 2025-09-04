@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudkamal20518@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mahmoudkamal20518@gmail.com)
 
 
 
