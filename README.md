@@ -52,70 +52,63 @@
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 
 <div align="center">
-
-<!-- Grid container -->
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/python.svg" width="50" alt="Python"/><br>
       <b>Python</b><br><sub>Pandas · NumPy · Matplotlib</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br>
-      <b>PostgreSQL</b><br><sub>SQL Queries · Joins · Indexing</sub>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/postgresql.svg" width="50" alt="PostgreSQL"/><br>
+      <b>PostgreSQL</b><br><sub>SQL Queries</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/><br>
-      <b>SQL Server</b><br><sub>Data Warehousing · Queries</sub>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/microsoftsqlserver.svg" width="50" alt="SQL Server"/><br>
+      <b>SQL Server</b><br><sub>DW · Queries</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/excel.svg" width="50" alt="Excel"/><br>
       <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" alt="Scikit-learn"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/scikitlearn.svg" width="50" alt="Scikit-learn"/><br>
       <b>Scikit-learn</b><br><sub>Machine Learning</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau"/><br>
-      <b>Tableau</b><br><sub>Dashboards · Data Viz</sub>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/tableau.svg" width="50" alt="Tableau"/><br>
+      <b>Tableau</b><br><sub>Dashboards · Viz</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>
-      <b>Git/GitHub</b><br><sub>Version Control</sub>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/github.svg" width="50" alt="GitHub"/><br>
+      <b>Git / GitHub</b><br><sub>Version Control</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/javascript.svg" width="50" alt="JavaScript"/><br>
       <b>JavaScript</b><br><sub>Frontend Logic</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/react.svg" width="50" alt="React"/><br>
       <b>React</b><br><sub>UI Components</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/nodejs.svg" width="50" alt="Node.js"/><br>
       <b>Node.js</b><br><sub>Backend APIs</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="Statistics"/><br>
-      <b>Statistics</b><br><sub>Regression · Testing</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/analytics/analytics-original.svg" width="50" height="50" alt="Data Analysis"/><br>
+    <td align="center" width="120">
+      <img src="https://techicons.dev/icons/analytics.svg" width="50" alt="Data Analysis"/><br>
       <b>Data Analysis</b><br><sub>Insights · Reporting</sub>
     </td>
+    <td colspan="0"></td>
   </tr>
 </table>
-
 </div>
-
 
 
 
