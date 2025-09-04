@@ -1,21 +1,19 @@
 <!-- Modern Left-Aligned Header -->
-<h1>👋 Hi, I'm <span style="color:#1F75FE;">Mahmoud Kamal</span></h1>
+<h1 align="left">👋 Hi, I'm <span style="color:#1F75FE;">Mahmoud Kamal</span></h1>
 
-<p>
+<p align="left">
   <a href="https://github.com/OverStarData">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Data+Scientist;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Data+Scientist" alt="Typing animation showing roles"/>
   </a>
 </p>
 
 <!-- Social Links with Modern Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-
-  <a href="https://github.com/OverStarData">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/OverStarData" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
