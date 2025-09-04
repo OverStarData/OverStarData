@@ -7,17 +7,15 @@
   </a>
 </p>
 
-<!-- Social Links with Modern Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-
-  <a href="https://github.com/OverStarData">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/OverStarData" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
