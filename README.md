@@ -56,74 +56,31 @@
 
 <div align="left">
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <sub><b>Python (Pandas, Numpy, Matplotlib)</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br>
-      <sub><b>SQL Server</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /><br>
-      <sub><b>Microsoft Excel</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>
-      <sub><b>Machine Learning</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br>
-      <sub><b>Tableau</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/BI-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white" /><br>
-      <sub><b>Business Intelligence</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=mathworks&logoColor=white" /><br>
-      <sub><b>Statistics</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br>
-      <sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" colspan="3">
-      <img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" /><br>
-      <sub><b>Data Analysis</b></sub>
-    </td>
-  </tr>
-</table>
+### 📊 Data & Analytics
+| Tool | Skills |
+|------|--------|
+| 🐍 **Python** | Pandas · NumPy · Matplotlib |
+| 🗄️ **SQL** | SQL Server · PostgreSQL |
+| 📊 **Excel** | Data Cleaning · Analysis |
+| 📈 **Statistics** | Hypothesis Testing · Regression |
+
+### 🤖 Machine Learning & BI
+| Tool | Skills |
+|------|--------|
+| 🧠 **Scikit-learn** | Machine Learning Models |
+| 📊 **Tableau** | Dashboards · Data Viz |
+| 💼 **Business Intelligence** | Reporting · Insights |
+
+### 💻 Development & Tools
+| Tool | Skills |
+|------|--------|
+| 🔧 **Git / GitHub** | Version Control |
+| 🌐 **JavaScript** | Frontend Logic |
+| ⚛️ **React** | UI Components |
+| 🟢 **Node.js** | Backend APIs |
 
 </div>
+
 
 
 
