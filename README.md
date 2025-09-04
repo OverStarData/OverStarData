@@ -70,8 +70,8 @@
       <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" alt="PostgreSQL"/><br>
       <b>PostgreSQL</b><br><sub>Database</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/><br>
+ <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftexcel.svg" width="50" alt="Excel"/><br>
       <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
     </td>
   </tr>
