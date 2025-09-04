@@ -116,6 +116,32 @@
 </div>
 
 
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftsqlserver.svg" width="50" alt="SQL Server"/><br>
+      <b>SQL Server</b><br><sub>Queries · DW</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftexcel.svg" width="50" alt="Excel"/><br>
+      <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tableau.svg" width="50" alt="Tableau"/><br>
+      <b>Tableau</b><br><sub>Dashboards · Viz</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Octicons-mark-github.svg" width="50" alt="GitHub"/><br>
+      <b>Git / GitHub</b><br><sub>Version Control</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 ## 📊 GitHub Stats  
