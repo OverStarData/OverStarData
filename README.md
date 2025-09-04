@@ -118,13 +118,20 @@
 
 
 ---
-
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OverStarData&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OverStarData&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OverStarData&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=OverStarData&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverStarData&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+
+</div>
 
 ---
 
