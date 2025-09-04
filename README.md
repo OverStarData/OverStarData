@@ -53,7 +53,7 @@
 
 ## 🧰 Tech Stack  
 
-<div align="center">
+<div align="left">
 
 ### 🔹 Programming & Data  
 <p>
