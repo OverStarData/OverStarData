@@ -80,8 +80,8 @@
       <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50" alt="Scikit-learn"/><br>
       <b>Scikit-learn</b><br><sub>Machine Learning</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/><br>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tableau.svg" width="50" alt="Tableau"/><br>
       <b>Tableau</b><br><sub>Dashboards · Viz</sub>
     </td>
     <td align="center" width="140">
