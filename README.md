@@ -52,65 +52,63 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack  
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" width="50" alt="Python"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="50" alt="Python"/><br>
       <b>Python</b><br><sub>Pandas · NumPy · Matplotlib</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftsqlserver.svg" width="50" alt="SQL Server"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" alt="SQL Server"/><br>
       <b>SQL Server</b><br><sub>Queries · DW</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/postgresql.svg" width="50" alt="PostgreSQL"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" alt="PostgreSQL"/><br>
       <b>PostgreSQL</b><br><sub>Database</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftexcel.svg" width="50" alt="Excel"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/><br>
       <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scikitlearn.svg" width="50" alt="Scikit-learn"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50" alt="Scikit-learn"/><br>
       <b>Scikit-learn</b><br><sub>Machine Learning</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tableau.svg" width="50" alt="Tableau"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/><br>
       <b>Tableau</b><br><sub>Dashboards · Viz</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" width="50" alt="GitHub"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/github/181717" width="50" alt="GitHub"/><br>
       <b>Git / GitHub</b><br><sub>Version Control</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" width="50" alt="JavaScript"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript"/><br>
       <b>JavaScript</b><br><sub>Frontend Logic</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" width="50" alt="React"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React"/><br>
       <b>React</b><br><sub>UI Components</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nodedotjs.svg" width="50" alt="Node.js"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js"/><br>
       <b>Node.js</b><br><sub>Backend APIs</sub>
     </td>
-    <td align="center" width="120">
-      <!-- Statistics icon isn't officially available; consider using a generic analytics icon -->
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gnuplot.svg" width="50" alt="Statistics"/><br>
-      <b>Statistics</b><br><sub>Regression · Testing</sub>
-    </td>
-    <td align="center" width="120">
-      <!-- Data Analysis icon not official; fallback to analytics -->
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gnuplot.svg" width="50" alt="Data Analysis"/><br>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="50" alt="Data Analysis"/><br>
       <b>Data Analysis</b><br><sub>Insights · Reporting</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/r/276DC3" width="50" alt="Statistics"/><br>
+      <b>Statistics</b><br><sub>Hypothesis · Regression</sub>
     </td>
   </tr>
 </table>
