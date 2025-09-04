@@ -53,32 +53,37 @@
 
 ## 🧰 Tech Stack  
 
-### 🔹 Programming & Data  
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![R](https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=276DC3)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+<div align="center">
 
----
+### 🔹 Programming & Data  
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-0D1117?style=flat&logo=r&logoColor=276DC3" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=flat&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
+</p>
 
 ### 🔹 Machine Learning & Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=005C5C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=E97627)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat&logo=pandas&logoColor=150458" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat&logo=numpy&logoColor=013243" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat&logo=plotly&logoColor=005C5C" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Tableau-0D1117?style=flat&logo=tableau&logoColor=E97627" alt="Tableau"/>
+</p>
 
 ### 🔹 Development & Tools  
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+</p>
 
+</div>
 
 ---
 
