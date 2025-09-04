@@ -54,32 +54,68 @@
 
 ## 🧰 Tech Stack  
 
-<div align="left">
+<div align="center">
 
-### 📊 Data & Analytics
-| Tool | Skills |
-|------|--------|
-| 🐍 **Python** | Pandas · NumPy · Matplotlib |
-| 🗄️ **SQL** | SQL Server · PostgreSQL |
-| 📊 **Excel** | Data Cleaning · Analysis |
-| 📈 **Statistics** | Hypothesis Testing · Regression |
-
-### 🤖 Machine Learning & BI
-| Tool | Skills |
-|------|--------|
-| 🧠 **Scikit-learn** | Machine Learning Models |
-| 📊 **Tableau** | Dashboards · Data Viz |
-| 💼 **Business Intelligence** | Reporting · Insights |
-
-### 💻 Development & Tools
-| Tool | Skills |
-|------|--------|
-| 🔧 **Git / GitHub** | Version Control |
-| 🌐 **JavaScript** | Frontend Logic |
-| ⚛️ **React** | UI Components |
-| 🟢 **Node.js** | Backend APIs |
+<!-- Grid container -->
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+      <b>Python</b><br><sub>Pandas · NumPy · Matplotlib</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br>
+      <b>PostgreSQL</b><br><sub>SQL Queries · Joins · Indexing</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/><br>
+      <b>SQL Server</b><br><sub>Data Warehousing · Queries</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/><br>
+      <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" alt="Scikit-learn"/><br>
+      <b>Scikit-learn</b><br><sub>Machine Learning</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau"/><br>
+      <b>Tableau</b><br><sub>Dashboards · Data Viz</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>
+      <b>Git/GitHub</b><br><sub>Version Control</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>
+      <b>JavaScript</b><br><sub>Frontend Logic</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br>
+      <b>React</b><br><sub>UI Components</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br>
+      <b>Node.js</b><br><sub>Backend APIs</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="Statistics"/><br>
+      <b>Statistics</b><br><sub>Regression · Testing</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/analytics/analytics-original.svg" width="50" height="50" alt="Data Analysis"/><br>
+      <b>Data Analysis</b><br><sub>Insights · Reporting</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 
