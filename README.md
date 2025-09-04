@@ -1,19 +1,21 @@
 <!-- Modern Left-Aligned Header -->
-<h1 align="left">👋 Hi, I'm <span style="color:#1F75FE;">Mahmoud Kamal</span></h1>
+<h1>👋 Hi, I'm <span style="color:#1F75FE;">Mahmoud Kamal</span></h1>
 
-<p align="left">
+<p>
   <a href="https://github.com/OverStarData">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Data+Scientist" alt="Typing animation showing roles"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Data+Scientist;" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Links with Modern Badges -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.linkedin.com/in/mahmoud-kamal-14208136b/">
+    <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/OverStarData" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+
+
+  <a href="https://github.com/OverStarData">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -51,66 +53,31 @@
 
 ## 🧰 Tech Stack  
 
-<div align="center">
+### 🔹 Programming & Data  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="50" alt="Python"/><br>
-      <b>Python</b><br><sub>Pandas · NumPy · Matplotlib</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" alt="SQL Server"/><br>
-      <b>SQL Server</b><br><sub>Queries · DW</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" alt="PostgreSQL"/><br>
-      <b>PostgreSQL</b><br><sub>Database</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/><br>
-      <b>Excel</b><br><sub>Data Cleaning · Analysis</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50" alt="Scikit-learn"/><br>
-      <b>Scikit-learn</b><br><sub>Machine Learning</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" alt="Tableau"/><br>
-      <b>Tableau</b><br><sub>Dashboards · Viz</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/github/181717" width="50" alt="GitHub"/><br>
-      <b>Git / GitHub</b><br><sub>Version Control</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript"/><br>
-      <b>JavaScript</b><br><sub>Frontend Logic</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React"/><br>
-      <b>React</b><br><sub>UI Components</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js"/><br>
-      <b>Node.js</b><br><sub>Backend APIs</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="50" alt="Bash"/><br>
-      <b>Bash</b><br><sub>Scripting · Automation</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/r/276DC3" width="50" alt="R"/><br>
-      <b>R</b><br><sub>Statistics · Regression</sub>
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+### 🔹 Machine Learning & Analytics  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+### 🔹 Development & Tools  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ---
 
