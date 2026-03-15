@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://github.com/OverStarData">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Data+Scientist;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F75FE&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Engineer;Big Data+Engineer;" alt="Typing SVG" />
   </a>
 </p>
 
