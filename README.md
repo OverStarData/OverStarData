@@ -82,7 +82,7 @@ I work with Python, SQL, and modern BI tools to understand trends, solve problem
 ---
 
 ## 📬 Let’s Connect
-- 🌐 Portfolio: *([website](https://customer-churn-analytics.onrender.com/about))*  
+- 🌐 Portfolio: *([Portfolio](https://customer-churn-analytics.onrender.com/about))*  
 - 🔗 LinkedIn: *([LinkedIn](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))*  
 - 🐙 GitHub: github.com/OverStarData  
 - 📧 Email: mahmoudkamal20518@gmail.com  
