@@ -48,8 +48,8 @@ SQL + Python EDA on 50K+ records with actionable business insights.
 ---
 
 ## 📬 Let’s Connect
-- 🌐 Portfolio: *([add link](https://customer-churn-analytics.onrender.com/about))*  
-- 🔗 LinkedIn: *(add link)*  
+- 🌐 Portfolio: *([website](https://customer-churn-analytics.onrender.com/about))*  
+- 🔗 LinkedIn: *([LinkedIn](https://www.linkedin.com/in/mahmoud-kamal-14208136b/))*  
 - 🐙 GitHub: github.com/OverStarData  
 - 📧 Email: mahmoudkamal20518@gmail.com  
 
