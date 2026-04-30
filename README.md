@@ -36,7 +36,7 @@ Data Scientist with a background in Artificial Intelligence and a Master's in Da
 | **Languages** | Python, SQL |
 | **ML/DL** | Scikit‑learn, TensorFlow, Keras |
 | **Data** | Pandas, NumPy, Jupyter, Git, VS Code |
-| **Visualization** | Tableau, Matplotlib, Seaborn |
+| **Visualization** | Tableau,Excel, Matplotlib, Seaborn |
 | **Databases** | SQL Server, MySQL, BigQuery |
 | **Cloud** | AWS (Certified Solutions Architect) |
 
