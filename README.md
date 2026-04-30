@@ -22,7 +22,7 @@ Data Scientist with a background in Artificial Intelligence and a Master's in Da
 `Overfitting & Regularization (L1/L2)` `Cross-Validation` `Hyperparameter Tuning` `Feature Selection` `Ensemble Methods` `Model Evaluation (ROC-AUC, F1, Precision/Recall)`
 
 ### Analytics & BI
-`EDA` `KPI Dashboards` `Automated Reporting` `Tableau` `Power BI` `Looker Studio`
+`EDA` `KPI Dashboards` `Automated Reporting` `Tableau` `Excel`
 
 ### Data Engineering
 `SQL (Window Functions, CTEs)` `ETL Pipelines` `BigQuery` `Data Warehousing`
