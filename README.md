@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmoud — Data Scientist & ML Engineer
+# 👋 Hi, I'm Mahmoud — Data Scientist & Analyist
 
 I specialize in **end-to-end data science** — from exploratory analysis and feature engineering to deploying machine learning and deep learning models. My work bridges the gap between statistical insights and production-ready predictive systems.
 
@@ -21,22 +21,21 @@ Data Scientist with a background in Artificial Intelligence and a current Master
 | Category | Tools |
 |----------|-------|
 | Languages | Python, SQL |
-| ML/DL | Scikit‑learn, TensorFlow, Keras, PyTorch (familiar) |
+| ML/DL | Scikit‑learn, TensorFlow, Keras |
 | Data | Pandas, NumPy, Jupyter, Git, VS Code |
-| Visualization | Tableau, Power BI, Looker Studio, Matplotlib, Seaborn |
+| Visualization | Tableau, Matplotlib, Seaborn |
 | Databases | SQL Server, MySQL, BigQuery |
-| Cloud | Google Cloud, AWS (Certified Solutions Architect) |
+| Cloud | AWS (Certified Solutions Architect) |
 
 ## 🎓 Education & Credentials
 
-- **Master of Data Science & Analytics** (In Progress) — GPA 3.90
+- **Master of Data Science & Analytics**  — GPA 3.90
 - **Bachelor in Artificial Intelligence**
 - Google Data Analytics Professional Certificate
 - AWS Certified Solutions Architect – Associate
 
 ## 📬 Connect
 
-- Portfolio: [customer-churn-analytics.onrender.com](https://customer-churn-analytics.onrender.com/about)
 - LinkedIn: [linkedin.com/in/mahmoud-kamal-14208136b/](https://www.linkedin.com/in/mahmoud-kamal-14208136b/)
 - GitHub: [github.com/OverStarData](https://github.com/OverStarData)
 - Email: mahmoudkamal20518@gmail.com
